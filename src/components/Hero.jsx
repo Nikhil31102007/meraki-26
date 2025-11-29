@@ -50,7 +50,7 @@ const Hero = () => {
                     transition={{ duration: 1, delay: 1.2, ease: "easeOut" }}
                 >
                     <span className="inline-block px-8 py-3 border-2 border-white/30 bg-black/40 backdrop-blur-md text-white text-lg md:text-xl font-pixel tracking-widest uppercase hover:bg-white/10 transition-colors duration-300">
-                        Coming Soon
+                        DIVE DEEPER
                     </span>
                 </motion.div>
 
